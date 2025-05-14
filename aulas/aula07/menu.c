@@ -55,6 +55,6 @@ while (opcao != 4){
         default: printf("Opcao invalida! Tente novamente. \n");
     }
 
-} 
 }
     return 0;
+}
